@@ -1,6 +1,6 @@
 # oracle_links
 
-#Is it possible to install oracle 12c without X window system
+#Is it possible to install oracle 12c without X window system<br>
 https://dba.stackexchange.com/questions/107814/is-it-possible-to-install-oracle-12c-without-x-window-system
 
 #Oracle DBA Scripts All In One For Oracle DBA
